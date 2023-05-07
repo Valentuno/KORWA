@@ -1,0 +1,15 @@
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\bin\Debug\KORWA.exe.config
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\bin\Debug\KORWA.exe
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\bin\Debug\KORWA.pdb
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\obj\Debug\KORWA.csproj.AssemblyReference.cache
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\obj\Debug\MainWindow.g.cs
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\obj\Debug\App.g.cs
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\obj\Debug\KORWA_MarkupCompile.cache
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\obj\Debug\KORWA_MarkupCompile.lref
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\obj\Debug\MainWindow.baml
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\obj\Debug\KORWA.g.resources
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\obj\Debug\KORWA.Properties.Resources.resources
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\obj\Debug\KORWA.csproj.GenerateResource.cache
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\obj\Debug\KORWA.csproj.CoreCompileInputs.cache
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\obj\Debug\KORWA.exe
+C:\Users\2016d\OneDrive\Pulpit\KORWA-master\KORWA\obj\Debug\KORWA.pdb
