@@ -20,9 +20,18 @@ namespace pages
     /// </summary>
     public partial class Page2 : Page
     {
+        Alkohol[] alkohols = new Alkohol[]
+        {
+            new Alkohol(0,"Harnas","15g/zl","5","Zdjecia/harnas.jpg"),
+            new Alkohol(1,"Halne","20g/zl","3","Zdjecia/halne.jpg"),
+        };
+
+
         public Page2()
         {
             InitializeComponent();
+
+            Mylist.ItemsSource = alkohols;
         }
     }
 }
